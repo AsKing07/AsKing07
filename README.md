@@ -19,6 +19,7 @@ I have a penchant for continuous learning, and I adapt swiftly to new challenges
 ![PYTHON](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=%23fff)
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=%23fff)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%23fff)
+![Dart](https://img.shields.io/badge/-Dart-red?style=for-the-badge&logo=dart)
 
 **Frameworks**
 
@@ -27,6 +28,8 @@ I have a penchant for continuous learning, and I adapt swiftly to new challenges
 ![VUE.JS](https://img.shields.io/badge/VUE_JS-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%23fff)
 ![REACT](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23fff)
 ![Qt](https://img.shields.io/badge/-Qt-black?style=for-the-badge&logo=qt&logoColor=#41CD52)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Nodejs](https://img.shields.io/badge/-Nodejs-pink?style=flat-square&logo=Node.js)
 
 **Content Management Systems (CMS)**
 
@@ -83,13 +86,15 @@ Today, my commitment to learning and sharing knowledge remains unwavering. I am 
 
 
 
-**[Visit my website](#)** to learn more about me. I also share insights and experiences on my other social media platforms...
+**[Visit my website](https://charbelsnndev.vercel.app/)** to learn more about me. I also share insights and experiences on my other social media platforms...
 
 ## My Professional Social Networks
 
 <a href="https://www.facebook.com/charbel.Asking" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff"></a>
 <a href="https://www.linkedin.com/in/charbel-sonon-1a121223b/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff">
 </a>
+<a  href="https://charbelsnndev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: charbelsnn@gmail.com"><img src="https://img.shields.io/badge/-charbelsnn%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>
 
 
 Feel free to contact me 💌 !

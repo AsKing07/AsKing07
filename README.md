@@ -69,6 +69,16 @@ I have a penchant for continuous learning, and I adapt swiftly to new challenges
 
 ___
 
+## 📊 GitHub Stats
+<br />
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AsKing07&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsKing07&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsKing07&theme=radical" alt="Streak Stats" />
+</p>
+
+
 ## A Bit More Detail
 
 In 2021, I embarked on my journey in web development. Thanks to **Openclassroms website**, I discovered programming and developed a keen interest in web development and development in general.

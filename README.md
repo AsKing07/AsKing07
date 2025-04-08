@@ -14,8 +14,11 @@ I have a penchant for continuous learning, and I adapt swiftly to new challenges
 ![HTML5](https://img.shields.io/badge/HTML5-%23fff?style=for-the-badge&logo=html5&logoColor=%23fff&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23fff)
 ![Dart](https://img.shields.io/badge/-Dart-red?style=for-the-badge&logo=dart)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 **Frameworks**
 

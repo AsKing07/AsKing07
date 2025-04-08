@@ -99,7 +99,6 @@ Today, my commitment to learning and sharing knowledge remains unwavering. I am 
 
 ## My Professional Social Networks
 
-<a href="https://www.facebook.com/charbel.Asking" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff"></a>
 <a href="https://www.linkedin.com/in/charbel-sonon-1a121223b/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff">
 </a>
 <a  href="https://charbelsnn.com/"><img src="https://img.shields.io/badge/Portfolio-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>

@@ -1,7 +1,13 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Charbel+%F0%9F%91%8B;Full+Stack+Developer;Software+Engineering+Student;Always+learning%2C+always+building" alt="Typing SVG" />
+
+</div>
+
 # Who Am I ?
 
 ## Brief Introduction
-I am **Charbel SONON, a Software Engineering student with a strong passion for software and web development. I enjoy solving complex computer-related problems, helping others, and sharing my knowledge ❤️**.
+I am **Charbel SONON**, a Software Engineering student with a strong passion for software and web development. I enjoy solving complex computer-related problems, helping others, and sharing my knowledge ❤️.
 
 Driven by a fascination for information technology and equipped with robust problem-solving skills, I possess recognized experience in web application design. I thrive in collaborative environments and, most importantly, contribute to high-impact project development.
 
@@ -41,14 +47,13 @@ I have a penchant for continuous learning, and I adapt swiftly to new challenges
 ![AMAZON AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=%23fff)
 ![HEROKU](https://img.shields.io/badge/HEROKU-%23430098?style=for-the-badge&logo=heroku&logoColor=%23fff)
 
-
 **Databases**
 
 ![MYSQL](https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23fff)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23fff)
 ![MONGODB](https://img.shields.io/badge/MONGODB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23fff)
 
-**Operating Systems(OS)**
+**Operating Systems (OS)**
 
 ![LINUX](https://img.shields.io/badge/LINUX-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23fff)
 ![WINDOWS](https://img.shields.io/badge/WINDOWS-%230078D4?style=for-the-badge&logo=windows&logoColor=%23fff)
@@ -60,7 +65,6 @@ I have a penchant for continuous learning, and I adapt swiftly to new challenges
 
 **Development Tools**
 
-
 ![INTELLIJ IDEA](https://img.shields.io/badge/INTELLIJ_IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=%23fff)
 ![VS CODE](https://img.shields.io/badge/VS_CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=%23fff)
 ![CURSOR](https://img.shields.io/badge/CURSOR-%23007ACC?style=for-the-badge&logo=cursor&logoColor=%23fff)
@@ -69,40 +73,60 @@ I have a penchant for continuous learning, and I adapt swiftly to new challenges
 ___
 
 ## 📊 GitHub Stats
-<br />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AsKing07&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsKing07&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsKing07&theme=radical" alt="Streak Stats" />
-</p>
+<div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=AsKing07&show_icons=true&count_private=true&theme=radical&hide_border=true" width="49%" alt="Charbel's GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AsKing07&layout=compact&theme=radical&hide_border=true" width="30%" alt="Top Languages" />
 
-## A Bit More Detail
+</div>
 
-In 2021, I embarked on my journey in web development. Thanks to **Openclassroms website**, I discovered programming and developed a keen interest in web development and development in general.
+## ⌨️ Coding Activity (WakaTime)
 
-Over the course of two years of learning and practical experience, I successfully worked on complex web projects using HTML, CSS, JS, PHP, MYSQL,MERN, WordPress and many other frameworks. This experience led me to collaborate with local companies such as, **[WomenEdTech](https://womenedtech.com)** and **[RabTech](https://rab-tech.com/)** where I continued to expand my skillset.
+<div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=asking007&theme=radical&hide_border=true&layout=compact" width="60%" alt="WakaTime Stats" />
 
+</div>
 
-I then ventured into freelancing, attracting numerous clients and engaging in exciting and diverse projects. During this time, I pursued my undergraduate studies in Software Engineering.
+## 📌 Featured Projects
 
+<div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=AsKing07&repo=My-FullStack-Portfolio-Frontend&theme=radical&hide_border=true" width="48%" alt="Portfolio Frontend" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=AsKing07&repo=asking_store_frontend&theme=radical&hide_border=true" width="48%" alt="AsKing Store" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=AsKing07&repo=cars_showcase&theme=radical&hide_border=true" width="48%" alt="Cars Showcase" />
 
-Today, my commitment to learning and sharing knowledge remains unwavering. I am particularly interested in  **Web and Software Development, AI and SaaS**.
+</div>
 
+## 💡 What Drives Me
 
+I like turning fuzzy problems into working software — whether that means architecting a full-stack app end to end, untangling a gnarly bug, or automating something that used to be manual. I care about writing code the next person (often future me) can pick up without a guided tour.
 
+Right now, I'm most curious about **AI-assisted tooling, SaaS products, and developer experience** — and I'm always up for a good technical conversation about any of it.
 
-**[Visit my website](https://charbelsnn.com/)** to learn more about me. I also share insights and experiences on my other social media platforms...
+## 📖 The Full Story
+
+My background, professional experience, education and project case studies live on my portfolio, where they stay current as things evolve — no need to keep this README in sync by hand:
+
+👉 **[charbelsnn.com](https://charbelsnn.com)**
+
+(It's a full-stack app I built and maintain myself — Next.js frontend, Node/Express/Prisma backend — so it's as much a case study as it is a bio.)
 
 ## My Professional Social Networks
 
-<a href="https://www.linkedin.com/in/charbel-sonon-1a121223b/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff">
-</a>
-<a  href="https://charbelsnn.com/"><img src="https://img.shields.io/badge/Portfolio-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
-<a href="mailto: charbelsnn@gmail.com"><img src="https://img.shields.io/badge/-charbelsnn%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/charbel-sonon-1a121223b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff"></a>
+<a href="https://charbelsnn.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto:charbelsnn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-charbelsnn%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
+</div>
 
 Feel free to contact me 💌 !
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AsKing07&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>

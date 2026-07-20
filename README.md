@@ -127,4 +127,6 @@ Feel free to contact me 💌 !
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsKing07&col
+![Profile Views](https://komarev.com/ghpvc/?username=AsKing07&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>

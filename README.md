@@ -81,11 +81,11 @@ ___
 
 </div>
 
-## ⌨️ Coding Activity (WakaTime)
+## ⌨️ Coding Activity (self-hosted via Wakapi)
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/wakatime?username=asking007&theme=radical&hide_border=true&layout=compact" width="60%" alt="WakaTime Stats" />
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=AsKing&api_domain=wakapi-latest-mygz.onrender.com&theme=radical&hide_border=true&layout=compact" width="60%" alt="Coding Activity Stats" />
 
 </div>
 
@@ -127,6 +127,4 @@ Feel free to contact me 💌 !
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsKing07&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=AsKing07&col
